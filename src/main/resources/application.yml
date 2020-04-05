@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+# spring
+spring:
+  application:
+    name: cloud-payment-service
+  datasource:
+    type: com.mysql.cj.jdbc.MysqlConnectionPoolDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: "jdbc:mysql://localhost:3306/fabflix?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true"
+    username: root
+    password: Yqr199733dlj*
+  thymeleaf:
+    prefix: classpath:/static/
+    suffix: .html

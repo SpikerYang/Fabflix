@@ -1,0 +1,15 @@
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/controller/MovieController.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/controller/pageController.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/service/MovieService.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/service/StarService.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/dao/StarDao.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/entities/Star.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/dao/MovieDaoImpl.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/controller/StarController.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/dao/MovieDao.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/service/StarServiceImpl.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/fabflixMain80.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/entities/Genre.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/entities/Movie.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/service/MovieServiceImpl.java
+/Users/spike/Documents/Code/Fabflix/src/main/java/com/spike/fabflix/dao/StarDaoImpl.java

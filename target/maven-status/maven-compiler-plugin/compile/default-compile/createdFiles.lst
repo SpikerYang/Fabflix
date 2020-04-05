@@ -1,0 +1,15 @@
+com/spike/fabflix/dao/StarDao.class
+com/spike/fabflix/service/MovieServiceImpl.class
+com/spike/fabflix/dao/StarDaoImpl.class
+com/spike/fabflix/entities/Movie.class
+com/spike/fabflix/dao/MovieDaoImpl.class
+com/spike/fabflix/service/StarService.class
+com/spike/fabflix/entities/Genre.class
+com/spike/fabflix/service/StarServiceImpl.class
+com/spike/fabflix/dao/MovieDao.class
+com/spike/fabflix/controller/StarController.class
+com/spike/fabflix/fabflixMain80.class
+com/spike/fabflix/entities/Star.class
+com/spike/fabflix/controller/MovieController.class
+com/spike/fabflix/controller/pageController.class
+com/spike/fabflix/service/MovieService.class
