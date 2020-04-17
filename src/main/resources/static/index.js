@@ -26,7 +26,10 @@ function handleStarResult(resultData) {
     console.log(resultData)
     for(let i = 0; i < Math.min(20, resultData.length); ++i) {
         let record ="<tr>";
-        record += "<th>" + resultData[i]["title"] + "</th>";
+        record += "<th>" +
+            '<a href="single-movie.html?id=' + resultData[i]['id'] + '">'
+            + resultData[i]["title"] + '</a>'
+            + "</th>";
         record += "<th>" + resultData[i]["year"] + "</th>";
         record += "<th>" + resultData[i]["director"] + "</th>";
 
